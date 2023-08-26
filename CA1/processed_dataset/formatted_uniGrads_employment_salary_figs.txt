@@ -1,0 +1,28 @@
+year|course_cluster|employed|full_time_employed|gross_median_monthly_salary
+2019|Arts, Design & Media|0.873|0.624|3200
+2019|Built Environment|0.926|0.873|3500
+2019|Business|0.946|0.888|3500
+2019|Engineering|0.884|0.833|3750
+2019|Health Sciences|0.971|0.884|3500
+2019|Humanities & Social Sciences|0.88|0.745|3500
+2019|Information & Digital Technologies|0.954|0.927|4400
+2019|Sciences|0.869|0.715|3500
+2019|Others (Not Working)|0.093|0.183|
+2020|Arts, Design & Media|0.923|0.501|3300
+2020|Built Environment|0.939|0.725|3500
+2020|Business|0.953|0.76|3500
+2020|Engineering|0.936|0.716|3900
+2020|Health Sciences|0.974|0.833|3500
+2020|Humanities & Social Sciences|0.921|0.618|3500
+2020|Information & Digital Technologies|0.948|0.873|4760
+2020|Sciences|0.916|0.554|3500
+2020|Others (Not Working)|0.064|0.302|
+2021|Arts, Design & Media|0.926|0.693|3500
+2021|Built Environment|0.945|0.889|3600
+2021|Business|0.97|0.887|3723
+2021|Engineering|0.94|0.869|3900
+2021|Health Sciences|0.957|0.859|3635
+2021|Humanities & Social Sciences|0.912|0.756|3550
+2021|Information & Digital Technologies|0.978|0.937|5000
+2021|Sciences|0.917|0.758|3600
+2021|Others (Not Working)|0.056|0.16|
